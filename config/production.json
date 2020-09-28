@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://suat1:suat1@nodetuts.r8ivx.mongodb.net/nodetuts?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
+}
